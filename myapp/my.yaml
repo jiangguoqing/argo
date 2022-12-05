@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: example-app-v11
+  name: example-app-v12
   namespace: argo
 spec:
   replicas: 3
